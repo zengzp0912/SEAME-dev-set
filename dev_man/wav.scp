@@ -1,0 +1,20 @@
+06nc12may_0101 ./seame/phasei/original/conversation/06nc12may_0101/06nc12may_0101.wav
+16nc32fbq_0101 ./seame/phasei/original/conversation/16nc32fbq_0101/16nc32fbq_0101.wav
+21nc41mbp_0101 ./seame/phasei/original/conversation/21nc41mbp_0101/21nc41mbp_0101.wav
+26nc48fbp_0101 ./seame/phasei/original/conversation/26nc48fbp_0101/26nc48fbp_0101.wav
+30nc48fbp_0101 ./seame/phasei/original/conversation/30nc48fbp_0101/30nc48fbp_0101.wav
+46nc41mbp_0101 ./seame/phasei/original/conversation/46nc41mbp_0101/46nc41mbp_0101.wav
+ni10fbp_0101 ./seame/phasei/original/interview/ni10fbp_0101/ni10fbp_0101.wav
+ni29mbp_0101 ./seame/phasei/original/interview/ni29mbp_0101/ni29mbp_0101.wav
+ni33mbp_0101 ./seame/phasei/original/interview/ni33mbp_0101/ni33mbp_0101.wav
+ui03faz_0101 ./seame/phasei/original/interview/ui03faz_0101/ui03faz_0101.wav
+ui07faz_0101 ./seame/phasei/original/interview/ui07faz_0101/ui07faz_0101.wav
+ui07faz_0102 ./seame/phasei/original/interview/ui07faz_0102/ui07faz_0102.wav
+ui07faz_0103 ./seame/phasei/original/interview/ui07faz_0103/ui07faz_0103.wav
+ui07faz_0104 ./seame/phasei/original/interview/ui07faz_0104/ui07faz_0104.wav
+ui07faz_0105 ./seame/phasei/original/interview/ui07faz_0105/ui07faz_0105.wav
+ui23faz_0101 /usr/bin/sox ./seame/phasei/original/interview/ui23faz_0101/ui23faz_0101.wav -r 16000 -c 1 -b 16 -t wav - downsample |
+ui23faz_0102 /usr/bin/sox ./seame/phasei/original/interview/ui23faz_0102/ui23faz_0102.wav -r 16000 -c 1 -b 16 -t wav - downsample |
+ui23faz_0103 /usr/bin/sox ./seame/phasei/original/interview/ui23faz_0103/ui23faz_0103.wav -r 16000 -c 1 -b 16 -t wav - downsample |
+ui23faz_0104 /usr/bin/sox ./seame/phasei/original/interview/ui23faz_0104/ui23faz_0104.wav -r 16000 -c 1 -b 16 -t wav - downsample |
+ui23faz_0105 /usr/bin/sox ./seame/phasei/original/interview/ui23faz_0105/ui23faz_0105.wav -r 16000 -c 1 -b 16 -t wav - downsample |
