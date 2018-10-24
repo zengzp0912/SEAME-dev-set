@@ -1,6 +1,6 @@
 # SEAME-dev-set
 
-For performance evaluation, we extract two subsets of the SEAME data as test sets: one is dominated by Mandarin speech (denoted as $dev_{man}$) while the other (denoted as $dev_{sge}$) is dominated by Singapore English. Each test set contains 10 speakers with balanced genders.
+For performance evaluation, we extract two subsets of the SEAME data as test sets: one is dominated by Mandarin speech (denoted as dev_man) while the other (denoted as dev_sge) is dominated by Singapore English. Each test set contains 10 speakers with balanced genders.
 
 ## References (Please cite the following articles)
 
