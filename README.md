@@ -8,6 +8,7 @@ For performance evaluation, we extract two subsets of the SEAME data as test set
 | dev_man| 10 | 7.49 |
 | dev_sge | 10 | 3.93  |
 
+We only shared the train wav file list which you can see in LDC2015S04.
 Please contact me if you have any questions (zengzp0912@gmail.com).
 
 ## References
