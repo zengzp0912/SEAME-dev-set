@@ -13,8 +13,8 @@ ui07faz_0102 ./seame/phasei/original/interview/ui07faz_0102/ui07faz_0102.wav
 ui07faz_0103 ./seame/phasei/original/interview/ui07faz_0103/ui07faz_0103.wav
 ui07faz_0104 ./seame/phasei/original/interview/ui07faz_0104/ui07faz_0104.wav
 ui07faz_0105 ./seame/phasei/original/interview/ui07faz_0105/ui07faz_0105.wav
-ui23faz_0101 /usr/bin/sox ./seame/phasei/original/interview/ui23faz_0101/ui23faz_0101.wav -r 16000 -c 1 -b 16 -t wav - downsample |
-ui23faz_0102 /usr/bin/sox ./seame/phasei/original/interview/ui23faz_0102/ui23faz_0102.wav -r 16000 -c 1 -b 16 -t wav - downsample |
-ui23faz_0103 /usr/bin/sox ./seame/phasei/original/interview/ui23faz_0103/ui23faz_0103.wav -r 16000 -c 1 -b 16 -t wav - downsample |
-ui23faz_0104 /usr/bin/sox ./seame/phasei/original/interview/ui23faz_0104/ui23faz_0104.wav -r 16000 -c 1 -b 16 -t wav - downsample |
-ui23faz_0105 /usr/bin/sox ./seame/phasei/original/interview/ui23faz_0105/ui23faz_0105.wav -r 16000 -c 1 -b 16 -t wav - downsample |
+ui23faz_0101 sox ./seame/phasei/original/interview/ui23faz_0101/ui23faz_0101.wav -r 16000 -c 1 -b 16 -t wav - |
+ui23faz_0102 sox ./seame/phasei/original/interview/ui23faz_0102/ui23faz_0102.wav -r 16000 -c 1 -b 16 -t wav - |
+ui23faz_0103 sox ./seame/phasei/original/interview/ui23faz_0103/ui23faz_0103.wav -r 16000 -c 1 -b 16 -t wav - |
+ui23faz_0104 sox ./seame/phasei/original/interview/ui23faz_0104/ui23faz_0104.wav -r 16000 -c 1 -b 16 -t wav - |
+ui23faz_0105 sox ./seame/phasei/original/interview/ui23faz_0105/ui23faz_0105.wav -r 16000 -c 1 -b 16 -t wav - |
